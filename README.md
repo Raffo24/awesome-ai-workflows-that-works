@@ -4,7 +4,7 @@
   <img src="assets/cover.svg" alt="Awesome AI Workflows That Work" width="100%">
 </p>
 
-# Awesome AI Workflows That Work [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome AI & More Workflows That Work [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![Workflows](https://img.shields.io/badge/workflows-63-blue)
 ![Focus](https://img.shields.io/badge/focus-practical_and_source--backed-green)
 ![License](https://img.shields.io/badge/license-CC0_1.0-lightgrey)
