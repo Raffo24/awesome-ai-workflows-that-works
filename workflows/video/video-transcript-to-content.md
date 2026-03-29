@@ -204,11 +204,9 @@ Once you have the clip timestamps from Step 2, extract and edit the actual video
 3. Find your clip timestamps, highlight the words, hit "Remove from Project" for everything outside
 4. Export as MP4
 
-### With CapCut (better for Reels/TikTok styling)
-1. Import clip into [CapCut](https://www.capcut.com)
-2. Add auto-captions (CapCut handles this well)
-3. Apply B-roll, text overlays, or transitions
-4. Export at 9:16 for Reels/TikTok, 16:9 for YouTube
+### Adding animated subtitles from the SRT file
+
+The `.srt` file generated in Step 1 can be imported directly into most video editors to add word-synced animated captions — the kind you see on Reels and TikTok. Import the SRT into [CapCut](https://www.capcut.com), [Veed.io](https://www.veed.io), or [Kapwing](https://www.kapwing.com), then style the captions (font, color, position, highlight animation) to match your brand. Export at 9:16 for Reels/TikTok, 16:9 for YouTube
 
 ---
 
