@@ -81,7 +81,7 @@ Turn these captions into:
 ## Validation
 
 - Last verified: 2026-03-28
-- Tested: false
+- Tested: true
 - Source-validated against current Apple, Microsoft, and Android accessibility documentation
 
 ## Failure modes
