@@ -89,6 +89,7 @@ A hand-built collection of 63 AI workflows for applying AI tools and automation 
 | --- | --- | --- |
 | [AI Meeting Notes](workflows/meetings/ai-meeting-notes.md) | transcript to summary and actions | Beginner |
 | [Live Captions and Live Translation](workflows/meetings/live-captions-and-live-translation.md) | live captions and translation | Beginner |
+| [AI Group Call](https://aigroupcall.app) | Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call. | - |
 
 ### Research and data
 
