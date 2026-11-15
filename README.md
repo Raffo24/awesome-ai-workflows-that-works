@@ -132,6 +132,8 @@ A hand-built collection of 63 AI workflows for applying AI tools and automation 
 
 ### Music, video, and media
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — Discover small live music venues, load-in notes, and booking contacts across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
+
 | Workflow | Focus | Level |
 | --- | --- | --- |
 | [Music Production Automation](workflows/music/music-production-automation.md) | stems, versions, mastering, release prep | Intermediate |
